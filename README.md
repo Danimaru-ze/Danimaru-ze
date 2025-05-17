@@ -23,14 +23,24 @@
 ## 🌐 Socials:
 [![instagram](https://img.shields.io/badge/instagram-_dny.s-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dny.s) [![telegram](https://img.shields.io/badge/telegram-ldanez-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ldanez)
 
-## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Danimaru-ze&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Danimaru-ze?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Danimaru-ze?style=social)
+
+---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Danimaru-ze&theme=onedark&rank=SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+---
 
-### 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+### 📊 GitHub Stats
+
+![Danimaru-ze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danimaru-ze&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=contribs)
+
+![Danimaru-ze's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danimaru-ze&theme=github-compact)
+
+---
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danimaru-ze&layout=compact&theme=dracula)

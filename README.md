@@ -3,15 +3,6 @@
 # Hi 👋, I'm Danimaru
 ### A fullstack developer who loves to build useful and scalable web apps
 
-## 🔥 My GitHub Achievements
-
-![Stars](https://img.shields.io/badge/Stars-500-green)
-![Commits](https://img.shields.io/badge/Commits-10k-blue)
-![PRs](https://img.shields.io/badge/PRs-500-purple)
-![Issues](https://img.shields.io/badge/Issues-300-red)
-![Contributions](https://img.shields.io/badge/Contributions-1000-orange)
-
-
 💻 I'm a fullstack developer from Indonesia  
 🛠 I enjoy building web apps using Laravel, Node.js, React, and Tailwind CSS  
 📚 Currently learning more about DevOps and system design  

@@ -10,8 +10,8 @@
 🌐 Always exploring new ideas and tools that make development fun and efficient
 
 - 🔭 I'm currently working on [Majlis Teater Selangor Website]()
-- 👯 I'm looking to collaborate on [	Majlis Teater Selangor System Enhancement]()
-- 🤝 I'm looking for help with [Responsive UI, Ticket Booking System, and Auto-deployment]()
+- 👯 I'm looking to collaborate on [	Majlis Teater Selangor System Enhancement](danimaru.biz.id)
+- 🤝 I'm looking for help with [Responsive UI, Ticket Booking System, and Auto-deployment](https://danimaru.biz.id/products/tickets)
 - 🌱 I'm currently learning Laravel, Tailwind CSS, Fullstack Integration
 - 💬 Ask me about CMS Botble, Laravel, UI Development
 - 📫 How to reach me: danysetiyawan50@gmail.com

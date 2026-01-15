@@ -25,9 +25,9 @@ Backend-Oriented · System Architecture & Integration Enthusiast
 ## 🕹️ Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danimaru/danimaru/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danimaru/danimaru/refs/heads/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danimaru/danimaru/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danimaru-ze/Danimaru-ze/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danimaru-ze/Danimaru-ze/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Danimaru-ze/Danimaru-ze/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -61,8 +61,7 @@ Backend-Oriented · System Architecture & Integration Enthusiast
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
@@ -224,8 +223,6 @@ Backend-Oriented · System Architecture & Integration Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="discord logo" />
 </div>
 
 ---

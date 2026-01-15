@@ -1,4 +1,4 @@
-# <div align="center">🚀 Dany Setiawan</div>
+# <div align="center">🚀 Dany Setiyawan</div>
 
 <div align="center">
   
@@ -17,9 +17,9 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dany-setiawan)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danimaru)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danimaru-ze)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danimaru_id)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dany@example.com)
   
 </div>
 
@@ -31,7 +31,7 @@
 const dany = {
     pronouns: "He" | "Him",
     location: "Indonesia 🇮🇩",
-    education: "Information Systems Student",
+    education: "Information Systems Student @ UNIPMA",
     focus: ["Web Systems", "Backend Development", "System Integration"],
     currentlyLearning: ["System Architecture", "Automation", "Security"],
     mindset: "Build systems that solve real problems, not just pass assignments",
@@ -88,14 +88,9 @@ const dany = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danimaru&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaru&theme=tokyonight&hide_border=true" />
-</div>
+<div align="center"> <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDanimaru-ze%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" /> <img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDanimaru-ze%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117" /> </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimaru&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<div align="center"> <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDanimaru-ze%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" /> </div>
 
 ---
 
@@ -247,7 +242,7 @@ const dany = {
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danimaru&custom_title=Dany's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danimaru-ze&custom_title=Dany's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
 
@@ -298,8 +293,8 @@ const dany = {
   
   ---
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=danimaru&color=6366F1&style=for-the-badge&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=danimaru-ze&color=6366F1&style=for-the-badge&label=Profile+Views)
   
-  **⭐ From [Dany Setiawan](https://github.com/danimaru) with ❤️**
+  **⭐ From [Dany Setiyawan](https://github.com/danimaru-ze) with ❤️**
   
 </div>

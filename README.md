@@ -10,7 +10,7 @@
   
   **`Backend Architecture` • `System Integration` • `Automation Engineering`**
   
-  📍 **Mojokerto, East Java, Indonesia**
+  📍 **Madiun, East Java, Indonesia**
   
 </div>
 
@@ -80,7 +80,7 @@ const dany = {
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=danimaru&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=danimaru&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=4&row=2)
   
 </div>
 
@@ -89,12 +89,12 @@ const dany = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danimaru&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaru&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danimaru&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaru&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=danimaru&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimaru&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -246,40 +246,32 @@ const dany = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danimaru&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=F97316&point=C9D1D9&area=true&area_color=6366F1" width="100%"/>
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danimaru&custom_title=Dany's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 💡 Quote of the Day
+## 💡 Random Dev Quote
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
 </div>
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Currently Vibing To
 
 <div align="center">
   
-  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31l5zkzxxogprad3ktsltkdm3cei&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31l5zkzxxogprad3ktsltkdm3cei)
   
 </div>
+
+<sub>*Connect your Spotify to see what you're listening to!*</sub>
 
 ---
 
